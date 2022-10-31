@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer working in frontend and backend technologies.
+- :telescope: I’m a Software Engineer working in frontend and backend technologies.
 
 - :seedling: Learning MAUI development.
 
