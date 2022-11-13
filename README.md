@@ -5,7 +5,7 @@
 
 - :telescope: I’m a Software Engineer working in frontend and backend technologies.
 
-- :seedling: Learning MAUI development.
+- :seedling: Learning .Net MAUI development.
 
 - :zap: In my free time, I run long distances.
 
