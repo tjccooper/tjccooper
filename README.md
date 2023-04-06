@@ -6,6 +6,7 @@
 - :telescope: I’m a Software Engineer working in frontend and backend technologies.
 
 - :seedling: Learning .Net MAUI development.
+- :seedling: Learning Monkey C since I bought a Garmin Fenix 7 watch and want to learn how to program for it.
 
 - :zap: In my free time, I run long distances.
 
